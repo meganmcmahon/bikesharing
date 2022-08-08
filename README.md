@@ -34,8 +34,6 @@ Trip by Gender (weekday per hour): This heatmap shows that male riders are the p
 
 User Trips by gender by weekday: This heatmap shows that males are the primary target group for bikesharing.
 
-Describe the results of each visualization underneath the image.
-
 ## Summary
 
 The results show that males are the primary users of citi bike and that it is a very popular mode of transportation to and from work (inferred by the spike in users from 7-10 am and 5-7 pm. The analysis also shows that the primary users of citi bike are subscribers. 
