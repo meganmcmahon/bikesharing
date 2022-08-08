@@ -4,6 +4,8 @@
 
 The purpose of this analysis is to show convince investors that a bike-sharing program in Des Moines is a solid business proposal. One of the key stakeholders would like to see a bike trip analysis.
 
+[link to dashboard] https://public.tableau.com/app/profile/megan.mcmahon/viz/bikesharing_challenge_16599818598530/BikesharingDataChallenge
+
 ## Results: 
 <img width="1005" alt="Screen Shot 2022-08-08 at 12 18 27 PM" src="https://user-images.githubusercontent.com/103215686/183486429-dfcc3ecf-d9f4-456f-b0b1-202a742bd30b.png">
 
